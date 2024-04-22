@@ -10,16 +10,16 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Ashish Ghatkar",
+      "AGE": 20,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Dhruv Desai",
+      "AGE": 20,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
